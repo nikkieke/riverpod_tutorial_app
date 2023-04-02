@@ -1,16 +1,7 @@
-# my_test_app
+# Riverpod_Tutorial_App
 
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you are need a simple guide to understand the workings of the Riverpod 1.0 and Riverpod 2.0 state management tool, then this project is for you. Do check it out! 
+These are the links to the articles where i explained the code. Click [here](https://clouds.hashnode.dev/maximizing-your-flutter-apps-performance-with-asyncnotifierprovider-freezed-riverpod-code-generators) and [here](https://clouds.hashnode.dev/the-ultimate-guide-to-mastering-riverpod-for-flutter-beginners)
